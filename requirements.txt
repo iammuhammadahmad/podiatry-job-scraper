@@ -1,0 +1,8 @@
+# Requirements for Google Sheets
+gspread
+
+
+# Requirements for podiatry_v2.py sites
+requests
+bs4
+html5lib
