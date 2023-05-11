@@ -14,7 +14,7 @@ This Scrapping Bot collect Job's details from `podiatry.org.au` and upload data 
   ->create key and download json and save file as `cred_gs.json`
 - Share client_email fom json in your sheets
 - Create Google Sheet and add below columns in first row <br>
-`Job URL|Job Site|Employer|Contact First|Contact Last|Phone|Email|Type|Region|Closing Date|	Profession																	`
+`Job URL|Job Site|Employer|Contact First|Contact Last|Phone|Email|Type|Region|Closing Date|	Profession`
 
 ### Setup Proxy (Optional)
 - SignUp in webshare.io with free plan or recommended subscripiton
